@@ -14,7 +14,7 @@
         "preversion": "yarn run clean"
     },
     "peerDependencies": {
-        "bs-platform": "^5.0.0"
+        "bs-platform": "^8"
     },
     "devDependencies": {
         "@glennsl/bs-jest": "^0.7.0",
