@@ -17,10 +17,10 @@
         "bs-platform": "^5.0.0"
     },
     "devDependencies": {
-        "@glennsl/bs-jest": "^0.4.8",
-        "bs-platform": "6.0.0",
+        "@glennsl/bs-jest": "^0.7.0",
+        "bs-platform": "9.0.2",
         "bsb-js": "^1.1.7",
-        "bsdoc": "^6.0.2-alpha"
+        "bsdoc": "^6.0.4-alpha"
     },
     "repository": {
         "type": "git",
